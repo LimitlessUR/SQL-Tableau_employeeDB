@@ -1,4 +1,0 @@
-
-
-![sql query](sqlmf.png)
-
