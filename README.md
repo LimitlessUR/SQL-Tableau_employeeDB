@@ -1,7 +1,7 @@
 # SQL-Tableau_employeeDB
 
 MySQL query for Total Employee Growth Male and Female 
-![sqlmf](https://user-images.githubusercontent.com/86543368/207209763-b5c2a4f3-7796-4e6b-a135-d26280f9bb00.png = 200x200)
+![sqlmf]("https://user-images.githubusercontent.com/86543368/207209763-b5c2a4f3-7796-4e6b-a135-d26280f9bb00.png" width=200 length = 200)
 
 Tableau Visualization 
 
