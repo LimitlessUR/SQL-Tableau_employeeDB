@@ -1,1 +1,2 @@
-![sql query](images\sqlmf.png)
+![sql query](sqlmf.png)
+
