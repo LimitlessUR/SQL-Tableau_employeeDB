@@ -1,4 +1,4 @@
 
 
-![sql query](assets\sqlmf.png)
+![sql query](sqlmf.png)
 
